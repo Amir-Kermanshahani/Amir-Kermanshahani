@@ -1,10 +1,8 @@
 👋  Hi, I’m @Amir-Kermanshahani.
 
-👀 I’m interested in **Quantum Inspired Algorithms**, **Machine Learning** and **Web Development**.
+👀 I’m interested in **Web Development**, **Software Engineering** and **Artificial Intelligence**.
 
-🌱 I’m currently learning **Quantum Machine Learning** and its application in **Real World Data Science**.
-
-💞️ I’m looking to collaborate on projects including **Quantum Algorithms**, **Machine Learning** and **Django Web Development**. 
+🌱 I’m currently learning **FullStack Software Development** and its implementation using state-of-the-art web technologies.
 
 📫 How to reach me: <br><br>
     LinkedIn: amir-kermanshahani <br><br>
