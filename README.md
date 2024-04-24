@@ -1,6 +1,6 @@
 👋  Hi, I’m @Amir-Kermanshahani.
 
-👀 ]nterested in **Web Development**, **Software Engineering** and **Artificial Intelligence**.
+👀 Interested in **Web Development**, **Software Engineering** and **Artificial Intelligence**.
 
 🌱 Currently experiencing **FullStack Software Development** with NextJS and Expo.
 
