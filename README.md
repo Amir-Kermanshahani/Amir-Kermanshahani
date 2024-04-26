@@ -1,8 +1,8 @@
 👋  Hi, I’m @Amir-Kermanshahani.
 
-👀 a Full-Stack **Web** and , **Software** Developer.
+👀 a Full-Stack **Web** and **Software** Developer.
 
-🌱 Living with React, React-Native, Next & Expo.
+🌱 I work with React, React-Native, Next & Expo.
 
 📫 How to reach me: <br><br>
     LinkedIn: amir-kermanshahani <br><br>
