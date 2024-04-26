@@ -1,8 +1,8 @@
 👋  Hi, I’m @Amir-Kermanshahani.
 
-👀 Interested in **Web Development**, **Software Engineering** and **Artificial Intelligence**.
+👀 a Full-Stack **Web** and , **Software** Developer.
 
-🌱 Currently experiencing **FullStack Software Development** with NextJS and Expo.
+🌱 Living with React, React-Native, Next & Expo.
 
 📫 How to reach me: <br><br>
     LinkedIn: amir-kermanshahani <br><br>
