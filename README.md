@@ -6,7 +6,7 @@
 
 📫 How to reach me: <br><br>
     LinkedIn: amir-kermanshahani <br><br>
-    Email: amir.kermanshahani.bussiness@gmail.com
+    Email: amir.kermanshahani.business@gmail.com
 
 <!---
 Amir-Kermanshahani/Amir-Kermanshahani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
