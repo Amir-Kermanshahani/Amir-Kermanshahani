@@ -1,8 +1,8 @@
 👋  Hi, I’m @Amir-Kermanshahani.
 
-👀 a Full-Stack **Web** and **Software** Developer.
+👀 an AI Full-Stack **Web** and **Software** Developer.
 
-🌱 I work with React, React-Native, Next & Expo.
+🌱 I work with state-of-the-art AI solutions and implement them using React, React-Native, Next & Expo to solve problems!
 
 📫 How to reach me: <br><br>
     LinkedIn: amir-kermanshahani <br><br>
